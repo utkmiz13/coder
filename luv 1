@@ -1,0 +1,42 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main(){
+    
+    /*data type 
+    char int float double bool
+    char c = a;
+    int a = 3;
+    double  = 3.4;
+    bool d = true/false;
+    //0 = false in cpp
+    //1 = true in cpp
+    
+    
+    /*operators 
+    +
+    -
+    /
+    %
+    *
+    
+    
+    a+1 or a++
+    a++; 
+    ++a;
+    a--;
+    --a;
+    */
+    int a = 5;
+    a = a+1;
+    cout << a << endl;
+    cout << a++ <<endl;
+    cout << a <<endl;
+    cout<< a++ <<endl;
+    /*charcaters 
+    char c = 'a';every character has there asci value*/
+    for char we use ' '
+    for string we use " "
+
+    
+    return 0;
+}
